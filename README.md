@@ -14,7 +14,7 @@
 
 - 🚀 web developer and future mobile developer
 
-- 💻 Graduating in Information Systems 2/8
+- 💻 Graduating in Information Systems 3/8
 
 - ✉️ how to reach me **devpedrorosa@gmail.com**
 
