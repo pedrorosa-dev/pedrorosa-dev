@@ -41,14 +41,14 @@
   <div>
     <h1> 📜Skills</h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git&perline=6" />
+      <img src="https://skillicons.dev/icons?i=python,html,css,js,git,neovim,vim,linux,mysql&perline=6" />
     </a>
   </div>
 <br>
   <div>
     <h1> 📚Studying </h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,typescript,php,react,laravel,nextjs,kotlin,swift,mysql&perline=7" />
+      <img src="https://skillicons.dev/icons?i=nodejs,typescript,php,react,nodejs,laravel,nextjs,kotlin,swift&perline=7" />
     </a>
   </div>
 
