@@ -10,15 +10,16 @@
    <h5>ABOUT ME:</h5> 
   </p>
 
-- 🏆 I created a great passion for development and my dream is to become a great full stack developer
+``` javascript
+let pedro = {
+  passion: "I have a great passion for development and my dream is to become a great full stack developer",
+  future: ["web developer", "future mobile developer"],
+  education: ["Graduating in Information Systems", "3rd out of 8 semesters"],
+  contact: "You can reach me at devpedrorosa@gmail.com",
+  quote: "As the song goes, 'I'm only human after all'"
+};
 
-- 🚀 web developer and future mobile developer
-
-- 💻 Graduating in Information Systems 3/8
-
-- ✉️ how to reach me **devpedrorosa@gmail.com**
-
-- 🎵 "I'm only human after all"
+```
 
  <hr>
   <p align="center">
