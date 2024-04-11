@@ -18,7 +18,7 @@ let pedrorosa-dev = {
   contact: "You can reach me at" devpedrorosa@gmail.com",
   quote: "As the song goes," Im only human after all
 };
-
+```
 
 
  <hr>
