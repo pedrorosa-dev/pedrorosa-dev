@@ -7,10 +7,13 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedrorosa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
 
-   <h5>ABOUT ME:</h5> 
+<img src="/img/pato.gif" min-width="150px" max-width="400px" width="75ox" align="left" alt="Pato">
+
+ABOUT ME:
+
   </p>
 
-``` javascript
+```javascript
 let pedrorosa-dev = {
   passion: "I have a great passion for development and my dream is to become a great full stack developer",
   future: [Web Developer, Future Mobile Developer],
@@ -20,13 +23,11 @@ let pedrorosa-dev = {
 };
 ```
 
-
  <hr>
   <p align="center">
   <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedrorosa-dev&show_icons=true&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true&rank_icon=github"/>
   <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosa-dev&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
 </p>
-
 
 <br>
  
