@@ -49,7 +49,7 @@ let pedrorosa-dev = {
   <div>
     <h1> 📚Studying </h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,typescript,php,react,nodejs,laravel,nextjs,kotlin,swift&perline=7" />
+      <img src="https://skillicons.dev/icons?i=,typescript,php,react,nodejs,laravel,nextjs,kotlin,swift&perline=7" />
     </a>
   </div>
 
