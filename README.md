@@ -19,7 +19,7 @@ let pedrorosa-dev = {
   future: [Web Developer, Future Mobile Developer],
   education: [Graduating in Information Systems, "3rd out of 8 semesters"],
   contact: "You can reach me at" devpedrorosa@gmail.com",
-  quote: "As the song goes," Im only human after all
+  quote: "As the song goes," "Im only human after all"
 };
 ```
 
