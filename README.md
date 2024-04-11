@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedrorosa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
 
-<img src="/img/pato.gif" min-width="150px" max-width="400px" width="43px" align="left" alt="Pato">
+<img src="/img/pato.gif" min-width="150px" max-width="400px" width="43px" left="10px" align="left" alt="Pato">
 
 ## ABOUT ME:
 
