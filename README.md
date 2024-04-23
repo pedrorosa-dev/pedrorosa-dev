@@ -15,7 +15,7 @@
 
 ```javascript
 let pedrorosa-dev = {
-  passion: "I have a great passion for development and my dream is to become a great full stack developer",
+  passion: "I have a great passion for development and my dream is to become a great software engineer",
   future: [Web Developer, Future Mobile Developer],
   education: [Graduating in Information Systems, "3rd out of 8 semesters"],
   contact: "You can reach me at" devpedrorosa@gmail",
