@@ -40,22 +40,22 @@ let pedrorosa-dev = {
 <div align="center">
     <h4> 💻 Skills</h4>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,mysql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,mysql&perline=8" style="width: 200px;"/>
   </a>
   <div>
     <h4>📚 Studying</h4>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,swift,ruby,aws,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,swift,ruby,aws,docker&perline=10" style="width: 300px;" />
   </a>
   </div>
      <div>
     <h4> 📜 Experience:</h4>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=10" style="width: 300px;" />
   </a>
   </div>
       <br>
-    <img src="./img/computer-gif.gif" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador">
+    <img src="./img/computer-gif.gif"  width="200px" align="center" alt="Computador">
 </div>   
 
 
