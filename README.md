@@ -43,12 +43,10 @@ let pedrorosa-dev = {
   <div>
     <h3> 💻 Skills</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&perline=6"style="width: 325px;"  />
+      <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&perline=8" style="width: 325px;" />
     </a>
   </div>
 
-
-<br>
   <div>
     <h3> 📚 Studying </h3>
     <a href="https://skillicons.dev">
