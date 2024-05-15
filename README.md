@@ -35,30 +35,31 @@ let pedrorosa-dev = {
  </div>
 <br>
 <hr>
+  <br>
 
-<img src="./img/computer-gif.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<div style="display: flex; justify-content: space-around;">
-
+<div align="center">
+    <h4> 💻 Skills</h4>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,mysql&perline=8" />
+  </a>
   <div>
-    <h3> 💻 Skills</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&perline=8" style="width: 325px;" />
-    </a>
+    <h4>📚 Studying</h4>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,swift,ruby,aws,docker&perline=10" />
+  </a>
   </div>
-
-  <div>
-    <h3> 📚 Studying </h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,nextjs,swift,ruby,aws,docker&perline=8" style="width: 355px;" />
-    </a>
+     <div>
+    <h4> 📜 Experience:</h4>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=10" />
+  </a>
   </div>
-  <div>
-    <h3> 📜 Experience:</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=10" style="width: 355px;" />
-    </a>
-  </div>
+      <br>
+    <img src="./img/computer-gif.gif" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador">
+</div>   
 
 
-</div>
+
+
+
+
