@@ -41,16 +41,24 @@ let pedrorosa-dev = {
 <div style="display: flex; justify-content: space-around;">
 
   <div>
-    <h1> 📜Skills</h1>
+    <h1> 💻Skills</h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,git,neovim,vim,linux,mysql&perline=6" />
+      <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&perline=6" />
     </a>
   </div>
+
+
 <br>
   <div>
     <h1> 📚Studying </h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,nextjs,swift,ruby&perline=7" />
+      <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,nextjs,swift,ruby,aws,docker&perline=7" />
+    </a>
+  </div>
+  <div>
+    <h1> 📜Experience:</h1>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=6" />
     </a>
   </div>
 
