@@ -52,13 +52,13 @@ let pedrorosa-dev = {
   <div>
     <h1> 📚Studying </h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,nextjs,swift,ruby,aws,docker&perline=7" />
+      <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,nextjs,swift,ruby,aws,docker&perline=8" />
     </a>
   </div>
   <div>
     <h1> 📜Experience:</h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=6" />
+      <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=10" />
     </a>
   </div>
 
