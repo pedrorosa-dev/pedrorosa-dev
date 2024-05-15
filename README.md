@@ -55,7 +55,7 @@ let pedrorosa-dev = {
     </a>
   </div>
   <div>
-    <h3> 📜 Experience:</h3>
+    <h3> 📜 Experience</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=10" style="width: 425px;" />
     </a>
