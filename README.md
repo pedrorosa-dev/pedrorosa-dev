@@ -12,7 +12,7 @@
 
   </p>
 
-```ruby
+```javascript
 let pedrorosa-dev = {
   passion: "I have a great passion for development and my dream is to become a great software engineer",
   developer: [Web Developer, Future Mobile Developer],
