@@ -34,7 +34,7 @@ let pedrorosa-dev = {
   <div align ="center">
     <h3> 📜 Skills</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,html,css,react,typescript,nextjs,nodejs,ruby,python,mysql,git,neovim,obsidian,github,linux&perline=20"  />
+      <img src="https://skillicons.dev/icons?i=javascript,html,css,react,typescript,nextjs,nodejs,ruby,python,mysql,git,neovim,obsidian,github,linux&perline=5"  />
     </a>
       <br>
       <br>
