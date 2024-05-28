@@ -7,7 +7,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedrorosa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
 
-<img src="/img/pato.gif" min-width="150px" max-width="400px" width="38px" left="10px" align="left" alt="Pato">
 
 ## ABOUT ME:
 
@@ -29,36 +28,17 @@ let pedrorosa-dev = {
   <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosa-dev&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
 </p>
 
-<br>
- 
-  
- </div>
-<br>
+
 <hr>
 
-<img src="./img/computer-gif.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-<div style="display: flex; justify-content: space-around;">
-
-  <div>
-    <h3> 💻 Skills</h3>
+  <div align ="center">
+    <h3> 📜 Skills</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&perline=6"style="width: 255px;"  />
+      <img src="https://skillicons.dev/icons?i=javascript,html,css,react,typescript,nextjs,nodejs,ruby,python,mysql,git,neovim,obsidian,github,linux&perline=20"  />
     </a>
+      <br>
+      <br>
   </div>
-
-<br>
-  <div>
-    <h3> 📚 Studying </h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,nextjs,swift,ruby,aws,docker&perline=8" style="width: 425px;" />
-    </a>
-  </div>
-  <div>
-    <h3> 📜 Experience</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,neovim,vim,linux,windows,figma,obsidian,vscode&perline=10" style="width: 425px;" />
-    </a>
-  </div>
-
+  <div align = "center"> 
+<img src="./img/computer-gif.gif" min-width="150px" max-width="400px" width="120px" alt="Pato">
 </div>
