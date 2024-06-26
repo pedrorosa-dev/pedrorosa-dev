@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Pedro Rosa</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Pedro Rosa</h1>
 <p align="center"> <img  width ="130rem"src="https://komarev.com/ghpvc/?username=pedrorosa-dev&color=lightgrey&style=for-the-badge" alt="Profile views" /> </p>
 
 
