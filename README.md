@@ -1,16 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eee&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pedro+Rosa;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<p align="left"> <img  width ="130rem"src="https://komarev.com/ghpvc/?username=pedrorosa-dev&color=lightgrey&style=for-the-badge" alt="Profile views" /> </p>
-
-<h1>🔔 Social media </h1>
-    
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedrorosa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
 
 
-## ABOUT ME:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Pedro Rosa</h1>
 
-  </p>
+<p align="center"> <img  width ="130rem"src="https://komarev.com/ghpvc/?username=pedrorosa-dev&color=lightgrey&style=for-the-badge" alt="Profile views" /> </p>
+
+
 
 ```typescript
 let pedrorosa-dev = {
@@ -39,3 +33,11 @@ let pedrorosa-dev = {
       <br>
   </div>
 
+ <div align="center">
+ <div display= inline-block>
+     
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedrorosa/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
+
+</div>
+</div>
