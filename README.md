@@ -3,18 +3,17 @@
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Pedro Rosa</h1>
 <p align="center"> <img  width ="130rem"src="https://komarev.com/ghpvc/?username=pedrorosa-dev&color=lightgrey&style=for-the-badge" alt="Profile views" /> </p>
 
-
-<p>
+<!--<p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="23" height="23" />  
   <b>About me:</b>
-</p>
+</p>!-->
 
 
 
 ```typescript
 let pedrorosa-dev = {
   passion: "I have a great passion for development and my dream is to become a great software engineer",
-  developer: [Web Developer, Future Mobile Developer],
+  developer: [Web Developer, Aspiring Mobile Developer],
   education: [Graduating in Information Systems, "4th out of 8 semesters"],
   contact: "You can reach me at" devpedrorosa@gmail",
   quote: "As the song goes," "Im only human after all"
