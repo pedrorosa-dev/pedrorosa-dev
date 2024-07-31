@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, I'm Pedro Rosa</h1>
-<p align="center"> <img  width ="130rem"src="https://komarev.com/ghpvc/?username=pedrorosa-dev&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
+<p align="center"> <img  width ="130rem"src="https://komarev.com/ghpvc/?username=pedrorosa-dev&color=lightgrey&style=for-the-badge" alt="Profile views" /> </p>
 
 <!--<p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="23" height="23" />  
