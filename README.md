@@ -43,11 +43,10 @@ let pedrorosa-dev = {
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedrorosa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
 
-
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=pedrorosa-dev&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=pedrorosa-dev&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
 
 <img src="https://raw.githubusercontent.com/pedrorosa-dev/pedrorosa-dev/output/snake.svg" alt="Snake animation" />
 
