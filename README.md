@@ -43,5 +43,15 @@ let pedrorosa-dev = {
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedrorosa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pedrorosa-dev/pedrorosa-dev/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+
+
+
+
+
 </div>
 </div>
