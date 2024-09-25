@@ -46,10 +46,5 @@ let pedrorosa-dev = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
 
 
-
-<img src="https://raw.githubusercontent.com/pedrorosa-dev/pedrorosa-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 </div>
 </div>
