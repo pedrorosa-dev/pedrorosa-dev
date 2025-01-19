@@ -40,7 +40,7 @@ const pedrorcruzz = {
  <div display= inline-block>
      
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorcruzz/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpedrorosa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phrosa.dev@gmail.com)
 [![CV-View](https://img.shields.io/badge/CV-View-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./cv-PedroRosa.pdf)
 [![CV-Download](https://img.shields.io/badge/CV-Download-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/pedrorcruzz/pedrorcruzz/main/cv-PedroRosa.pdf)
 
