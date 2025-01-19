@@ -11,7 +11,7 @@ const pedrorcruzz = {
   passion: "I have a great passion for development and my dream is to become a great software engineer",
   developer: [Web Developer | Aspiring Mobile Developer | AI Learner],
   education: [Graduating in Information Systems, "5th out of 8 semesters"],
-  contact: "You can reach me at" devpedrorosa@gmail",
+  contact: "You can reach me at" phrosa.dev@gmail.com",
   quote: "As the song goes," "Im only human after all"
 };
 ```
