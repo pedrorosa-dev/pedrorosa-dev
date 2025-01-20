@@ -28,7 +28,7 @@ const pedrorcruzz = {
 <hr>
 
   <div align ="center">
-    <h3> 📜 Technology stack</h3>
+    <h3> 📜 Development Stack</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwindcss,bootstrap,nodejs,nextjs,nestjs,php,python,postgresql,docker,neovim&perline=16" /</a>
       <br>
