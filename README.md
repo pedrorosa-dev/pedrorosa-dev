@@ -40,6 +40,8 @@ const pedrorcruzz = {
      
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorcruzz/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phrosa.dev@gmail.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/pedrorcruzz)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29283522/pedro-rosa)
 [![CV-View](https://img.shields.io/badge/CV-View-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./cv-PedroRosa.pdf)
 [![CV-Download](https://img.shields.io/badge/CV-Download-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/pedrorcruzz/pedrorcruzz/main/cv-PedroRosa.pdf)
 
