@@ -8,7 +8,6 @@
 
 ```typescript
 const pedrorcruzz = {
-  passion: "I have a great passion for development and my dream is to become a great software engineer",
   developer: [Web Developer | AI Learner | Mobile Developer],
   education: [Graduating in Information Systems, "5th out of 8 semesters"],
   contact: "You can reach me at" phrosa.dev@gmail.com",
