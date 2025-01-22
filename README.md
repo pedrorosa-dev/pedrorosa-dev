@@ -18,9 +18,11 @@ const pedrorcruzz = {
  <hr>
   <p align="center">
   <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedrorcruzz&show_icons=true&theme=dark&light&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorcruzz&langs_count=10&layout=compact&theme=dark&light&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+  <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorcruzz&locale_en&layout=compact&langs_count=20&theme=dark&light&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
 </p>
 
+
+###
 <!-- <div align="center"> -->
 <!--   <img src="https://github-profile-trophy.vercel.app?username=pedrorcruzz&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
 <!-- </div> -->
